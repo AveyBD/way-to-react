@@ -8,9 +8,7 @@ function App() {
   return (
     <div className="App">
       <Hello name="Deb" age="26"/>
-      <Hello name="Das"/>
-        <Hello name="Avey"/>
-      <Welcome/>
+      <Welcome lib="React"/>
     </div>
   );
 }
